@@ -1,0 +1,14 @@
+{
+  "firstName": "Taras",
+  "lastName": "Nevmerzhytskyi",
+  "languages": [
+    {
+      "title": "C#",
+      "level": "Junior"
+    },
+    {
+      "title": "JS",
+      "level": "Pro"
+    }
+  ]
+}
